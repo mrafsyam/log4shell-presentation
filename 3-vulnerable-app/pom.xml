@@ -45,7 +45,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.kemaman.log4j</mainClass>
+                            <mainClass>org.kemaman.Log4jApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
