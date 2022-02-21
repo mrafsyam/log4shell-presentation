@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="log4j-rce">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3-vulnerable-app/target/log4j-rce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

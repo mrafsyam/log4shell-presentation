@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2-rogue-ldap/target/marshalsec-0.0.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2-rogue-ldap/target/marshalsec-0.0.3-SNAPSHOT-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

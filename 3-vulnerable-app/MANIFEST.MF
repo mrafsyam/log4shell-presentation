@@ -1,0 +1,6 @@
+Manifest-Version: 1.0    
+Archiver-Version: 1.0  
+Created-By: Raf 
+Built-By: Raf
+Build-Jdk: 1.6.0_34  
+Class-Path:  /e/log4shell-presentation/apache-log4j-rce-poc/target/log4j-rce-1.0-SNAPSHOT.jar

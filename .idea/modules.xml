@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3-vulnerable-app/3-vulnerable-app.iml" filepath="$PROJECT_DIR$/3-vulnerable-app/3-vulnerable-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log4shell-knowledge-sharing.iml" filepath="$PROJECT_DIR$/log4shell-knowledge-sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-rogue-ldap/src/main/main.iml" filepath="$PROJECT_DIR$/2-rogue-ldap/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-rogue-ldap/src/test/test.iml" filepath="$PROJECT_DIR$/2-rogue-ldap/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
